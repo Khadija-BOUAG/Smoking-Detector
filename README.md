@@ -32,6 +32,6 @@ I used Google Colab GPU
 ## Result :
 Here is the result of the inference on some images :
 
-![This is an image](./images/2.png)
-![This is an image](./images/3.png)
-![This is an image](./images/5.png)
+![This is an image](./images/2.jpg)
+![This is an image](./images/3.jpg)
+![This is an image](./images/5.jpg)
