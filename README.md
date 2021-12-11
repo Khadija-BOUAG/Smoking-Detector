@@ -2,7 +2,11 @@
 
 
 ## Steps :
-**1. Cloning repository for YoloV5**
+**1. Get/Prepare Data**
+
+I gathered images using unsplash API with the script *get images.py*
+
+**2. Cloning repository for YoloV5**
 ```
 !git clone https://github.com/ultralytics/yolov5
 ```
